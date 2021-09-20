@@ -1,3 +1,3 @@
-[ -f ~/.xprofile ] && . ~/.xprofile && dbus-launch lxqt-session
+[ -f ~/.xprofile ] && . ~/.xprofile && dbus-launch startlxqt
 #exec xfce4-session
 
